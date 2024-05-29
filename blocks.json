@@ -1,0 +1,9 @@
+{
+	"furry_block": {
+		"sound": "stone"
+	},
+	"azalea:code_block": {
+		"sound": "azalea",
+		"textures": "code_block"
+	}
+}

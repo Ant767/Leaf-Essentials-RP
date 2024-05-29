@@ -1,0 +1,36 @@
+{
+    "format_version": 2,
+    "header": {
+        "name": "§2Leaf §aEssentials §nRP §7- §6v0.1 §7| §9BETA",
+        "description": "Made by powertrash on discord.",
+        "uuid": "e30da5eb-ede0-65e9-85d6-7bee4fa4e5cd",
+        "version": [
+            1,
+            0,
+            1
+        ],
+        "min_engine_version": [
+            1,
+            17,
+            40
+        ]
+    },
+    "modules": [
+        {
+            "type": "resources",
+            "uuid": "fae13fa1-2919-425d-9ef8-98e1a5e79c8c",
+            "version": [
+                1,
+                0,
+                1
+            ]
+        }
+    ],
+    "metadata": {
+        "generated_with": {
+            "blockbench_block_wizard": [
+                "1.2.2"
+            ]
+        }
+    }
+}
